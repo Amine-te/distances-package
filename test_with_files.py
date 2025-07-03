@@ -1,5 +1,5 @@
 """
-Test script to verify DistancePy works with actual CSV files.
+Test script to verify DistancePy works with actual files.
 Run create_test_data.py first to generate the test files.
 """
 
